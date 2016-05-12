@@ -53,7 +53,7 @@ export default class Price extends Component {
             {this.renderFilter()}
             {(items.length)
                 ? items.map(::this.renderItem)
-                : <p className="non-items">Товаров, соответствующих введённым данным, не найдено.</p>}
+                : <p className='non-items'>Товаров, соответствующих введённым данным, не найдено.</p>}
         </div>);
     }
 }
