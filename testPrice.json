@@ -1,0 +1,33 @@
+[{
+  "_id": 1,
+  "name": "ASUS GX700VO-GC009T",
+  "cost": 1000,
+  "img": "http://content2.onliner.by/catalog/device/header/d98efe5784ff34aa957d248f63ecb0b0.jpg",
+  "stock": 1,
+  "description": "17.3 1920 x 1080 матовый, Intel Core i7 6820HK 2700 МГц, 32 ГБ, 2 x 256 Гб (два SSD), NVIDIA GeForce GTX 980, Windows 10, цвет крышки серебристый, цвет корпуса серый/черный."
+},
+{
+  "_id": 2,
+  "name": "ASUS K501UX-DM036T",
+  "cost": 500,
+  "img": "http://content2.onliner.by/catalog/device/header/d3817610694ba2cd22136bf79c8864d7.jpg",
+  "stock": 0,
+  "description": "15.6 1920 x 1080 матовый, Intel Core i7 6500U 2500 МГц, 6 ГБ, 1000 ГБ (HDD), NVIDIA GeForce GTX 950M, Windows 10, цвет крышки серый, цвет корпуса серый/черный"
+},
+{
+  "_id": 3,
+  "name": "MSI GT80S 6QE-053RU Titan SLI Heroes Special Edition",
+  "cost": 1500,
+  "img": "http://content2.onliner.by/catalog/device/header/b75f29224606b2eb42a5aca3fd50121c.jpg",
+  "stock": 12,
+  "description": "18.4 1920 x 1080 матовый, Intel Core i7 6820HK 2700 МГц, 32 ГБ, 1000 ГБ + 256 Гб (HDD + SSD), NVIDIA GeForce GTX 980M, Windows 10, цвет крышки черный, цвет корпуса черный"
+},
+{
+  "_id": 4,
+  "name": "ASUS GL552VW-DM321T",
+  "cost": 1000,
+  "img": "http://content2.onliner.by/catalog/device/header/ef3d81b5d401ac443d5ef7b98e7f9777.jpg",
+  "stock": 34,
+  "description": "15.6 1920 x 1080 матовый, Intel Core i7 6700HQ 2600 МГц, 8 ГБ, 2000 ГБ (HDD), NVIDIA GeForce GTX 960M, Windows 10, цвет крышки черный, цвет корпуса черный"
+}
+]
